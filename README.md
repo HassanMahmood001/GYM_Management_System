@@ -37,5 +37,5 @@ This project is about a gym management system. The gym management system has a l
 
 ## License
 
-Released under [Public](/LICENSE) by [@HassanMahmood001](https://github.com/HassanMahmood001).
+Released under [GPL-3.0 license](/LICENSE) by [@HassanMahmood001](https://github.com/HassanMahmood001).
 
